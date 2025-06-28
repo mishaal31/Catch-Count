@@ -20,6 +20,5 @@ An interactive console game made in C++ where you move a basket to catch falling
 -Smooth visuals using double buffering.
 
 -Keyboard input via _getch() for real-time play.
-# Screenshot
-![Image 2025-06-28 at 14 31 50_8dc99659](https://github.com/user-attachments/assets/ffc966df-0b6b-4a99-9a4d-3c043e6f7493)
+
 
